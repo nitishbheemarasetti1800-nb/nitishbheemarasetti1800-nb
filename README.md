@@ -40,7 +40,7 @@ Salesforce Administrator & Developer | ADM-201 Certified | St. Louis, MO
 | Project | Description | Tech |
 |---------|-------------|------|
 | 🦕 Doc Dino | iOS pet health & behavior tracking app | Swift, SwiftUI, Xcode |
-| 🤖 Agentforce IT Helpdesk Agent | Internal AI agent for AMD — automated IT support & ticketing | Agentforce, Flows, Apex |
+| 🤖 Agentforce IT Helpdesk Agent | Internal AI agent for clients — automated IT support & ticketing | Agentforce, Flows, Apex |
 | 👤 Facial Recognition Attendance System | Contactless automated attendance — 95% accuracy, peer-reviewed publication | Python, OpenCV, Raspberry Pi |
 
 ---
